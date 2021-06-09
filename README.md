@@ -12,3 +12,4 @@ funcionalidades: Leitor tera a função de comparar preços e mostrar qual produ
 ![img](https://github.com/OBsant/Projeto-Integrado-ScannerINO/blob/main/ScannerINO/Tela%20de%20pro%C3%A7o(media%20fidelidade).png?raw=true)
 ![img](https://github.com/OBsant/Projeto-Integrado-ScannerINO/blob/main/ScannerINO/Tela%20descri%C3%A7%C3%A3o(Media%20Fidelidade).png?raw=true)
 ![img](https://github.com/OBsant/Projeto-Integrado-ScannerINO/blob/main/ScannerINO/Tela%20descri%C3%A7%C3%A3o%202(Media%20Fidelidade).png?raw=true)
+![img](https://github.com/OBsant/Projeto-Integrado-ScannerINO/blob/main/ScannerINO/Tela%20de%20cadastro(Media%20fidelidade).png?raw=true)
